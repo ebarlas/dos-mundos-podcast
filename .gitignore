@@ -1,0 +1,7 @@
+dos_mundos/
+podcast/
+.python-version
+.DS_Store
+.idea
+__pycache__
+*.sh
